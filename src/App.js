@@ -12,6 +12,7 @@ const Container = styled.div`
   width: 100vw;
   height: 812px;
   min-width: 380px;
+  max-width: 100vw;
   flex-direction: column;
   border: 3px solid #000;
   border-radius: 20px;

@@ -11,7 +11,7 @@ const Title = styled.p`
   font-size: 17px;
   font-family: Roboto, sans-serif;
   color: rgb(60, 60, 67, 0.6);
-  padding: 8px 12vw;
+  padding: 8px 21vw;
 `;
 const Feed = styled.div`
   display: flex;
