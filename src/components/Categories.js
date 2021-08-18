@@ -7,11 +7,11 @@ import PurchaseImage from "../assets/images/purchases.png";
 
 const Container = styled.div`
   background-color: #fff;
-  min-width: 50vw;
+  min-width: 330px;
   height: 92px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
   margin-bottom: 20px;
 `;
 const Image = styled.img`
